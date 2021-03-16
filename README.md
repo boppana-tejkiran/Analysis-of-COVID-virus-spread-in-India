@@ -1,4 +1,4 @@
-This repository is submission for assignment-1 for DataMIning Course (CS685) at IIT Kanpur in the Autumn semester 2020. In this assignment the trends of COVID Virus spread across India was analyzed as per the questions of assignment. Conclusions were drawn regarding the effect of Lock down imposed in India.
+This repository is submission for assignment-1 for DataMIning Course (CS685) at IIT Kanpur in the Autumn semester 2020. In this assignment the trends of COVID Virus spread across India were analyzed as per the questions of assignment. Conclusions were drawn regarding the effect of Lock down imposed in India.
 
 ## How to use manual for executing the Assignment 1 code
 
