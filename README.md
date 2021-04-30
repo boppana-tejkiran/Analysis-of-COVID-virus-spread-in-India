@@ -5,6 +5,7 @@ This repository is submission for assignment-1 for DataMIning Course (CS685) at 
 ---------------------------
 **How to execute the code:**
 i) Open the terminal and change the current working directory to the "bash_scripts" sub-folder
+
 ii) This folder contains a script file  “assign1.sh”. This "assign1.sh" has to be executed by using the following commands in terminal:
 
 ```sh
