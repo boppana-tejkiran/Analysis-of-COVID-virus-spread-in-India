@@ -8,8 +8,8 @@ i) Open the terminal and change the current working directory to the "bash_scrip
 ii) This folder contains a script file  “assign1.sh”. This "assign1.sh" has to be executed by using the following commands in terminal:
 
 ```sh
-$ chmod u+r+x assign1.sh  (This command is to give permissions to read and execute the file)
-$ ./assign1.sh (command to execute the file)
+$ chmod u+r+x assign1.sh
+$ ./assign1.sh
 ```
 
 iii) The assign1.sh file is the top level script file which contains individual script files (.sh files) which inturn execute the python3 (.py) programs that produce the required outputs as per the requirement of each question in the assignment in .csv format and .json format [It takes around 25-30 minutes for the assign1.sh file to execute]
