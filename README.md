@@ -13,6 +13,7 @@ $ ./assign1.sh
 ```
 
 iii) The assign1.sh file is the top level script file which contains individual script files (.sh files) which inturn execute the python3 (.py) programs that produce the required outputs as per the requirement of each question in the assignment in .csv format and .json format [It takes around 25-30 minutes for the assign1.sh file to execute]
+
 iv) To execute the report.tex file and convert it into report.pdf perform the follwing commands in order in terminal:
 
 ```sh
